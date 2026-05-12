@@ -1,11 +1,6 @@
 #Chat with Your Data — AI CSV Analyzer
 An AI-powered chatbot that lets you explore any CSV dataset using plain English. Upload your data, ask questions, and get instant intelligent answers — no SQL or coding required!
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-Data-green?style=flat-square)
 
----
 
 ## What It Does
 
@@ -67,15 +62,6 @@ http://localhost:8501
 
 ---
 
-##  Project Structure
-
-chat-with-data/
-├── app.py              ← Main Streamlit application
-├── .env                ← Your API key (never push this!)
-├── .gitignore          ← Protects .env from being uploaded
-├── requirements.txt    ← All Python dependencies
-└── README.md           ← You are here!
-
 ---
 
 ##  How It Works
@@ -110,5 +96,3 @@ chat-with-data/
 This project is open source and available under the MIT License.
 
 ---
-
-⭐ If you found this project helpful, please give it a star on GitHub!
