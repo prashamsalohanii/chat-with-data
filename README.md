@@ -1,5 +1,5 @@
-#Chat with Your Data — AI CSV Analyzer
-An AI-powered chatbot that lets you explore any CSV dataset using plain English. Upload your data, ask questions, and get instant intelligent answers — no SQL or coding required!
+#Chat with Your Data  AI CSV Analyzer
+An AI-powered chatbot that lets you explore any CSV dataset using plain English. Upload your data, ask questions, and get instant intelligent answers no SQL or coding required!
 
 
 ## What It Does
@@ -37,7 +37,7 @@ Upload any `.csv` file and ask questions like:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the repository
 git clone https://github.com/Prashamsalohanii/chat-with-data.git
