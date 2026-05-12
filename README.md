@@ -1,7 +1,5 @@
-# 💬 Chat with Your Data — AI CSV Analyzer
-
+#Chat with Your Data — AI CSV Analyzer
 An AI-powered chatbot that lets you explore any CSV dataset using plain English. Upload your data, ask questions, and get instant intelligent answers — no SQL or coding required!
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=flat-square)
@@ -9,7 +7,7 @@ An AI-powered chatbot that lets you explore any CSV dataset using plain English.
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 Upload any `.csv` file and ask questions like:
 
@@ -21,14 +19,14 @@ Upload any `.csv` file and ask questions like:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📂 Upload any CSV — works with any dataset
-- 💬 Natural language chat — ask questions in plain English
-- 📊 Auto dataset summary — rows, columns, data types shown instantly
-- 🧠 Context-aware answers — AI uses actual data stats to answer
-- ⚡ Super fast — powered by Groq's low-latency API
-- 💾 Chat history — remembers your conversation in the session
+- Upload any CSV — works with any dataset
+- Natural language chat — ask questions in plain English
+-  Auto dataset summary — rows, columns, data types shown instantly
+-  Context-aware answers — AI uses actual data stats to answer
+- Super fast — powered by Groq's low-latency API
+-  Chat history — remembers your conversation in the session
 
 ---
 
@@ -69,7 +67,7 @@ http://localhost:8501
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 chat-with-data/
 ├── app.py              ← Main Streamlit application
@@ -80,7 +78,7 @@ chat-with-data/
 
 ---
 
-## 📝 How It Works
+##  How It Works
 
 1. User uploads a CSV file
 2. Pandas reads and analyzes the dataset
@@ -91,23 +89,23 @@ chat-with-data/
 
 ---
 
-## 🔒 Security
+## Security
 
 - .env file is in .gitignore — your API key is never uploaded to GitHub
 - No user data is stored — everything stays in your browser session
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
 **Prashamsa Lohani**
-- 🌐 Website: https://prashamsalohani.com.np
-- 📧 Email: Prashamsalohani18@gmail.com
-- 🐙 GitHub: https://github.com/Prashamsalohanii
+- Website: https://prashamsalohani.com.np
+- Email: Prashamsalohani18@gmail.com
+- GitHub: https://github.com/Prashamsalohanii
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the MIT License.
 
