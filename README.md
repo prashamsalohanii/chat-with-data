@@ -1,3 +1,7 @@
+## Live App
+https://chat-with-data-4pintfbcnsce5banniaggy.streamlit.app/
+
+
 #Chat with Your Data  AI CSV Analyzer
 An AI-powered chatbot that lets you explore any CSV dataset using plain English. Upload your data, ask questions, and get instant intelligent answers no SQL or coding required!
 
@@ -75,9 +79,6 @@ http://localhost:8501
 - Website: https://prashamsalohani.com.np
 - Email: Prashamsalohani18@gmail.com
 - GitHub: https://github.com/Prashamsalohanii
-
-## Live App
-# My AI Project
 
 ## Live App
 https://chat-with-data-4pintfbcnsce5banniaggy.streamlit.app/
